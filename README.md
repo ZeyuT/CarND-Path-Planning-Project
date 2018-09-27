@@ -11,8 +11,7 @@ The car in the simulator transmits its location, along with its sensor fusion da
 
 In the simulator, the car uses a perfect controller and will visit every (x,y) point it recieves in the list every .02 seconds. The units for the (x,y) points are in meters and the spacing of the points determines the speed of the car. The vector going from a point to the next point in the list dictates the angle of the car. 
 
-Here is a piece of the video recored from the final run on the simulator.
-[Final Video](./output_example_trimmed.mp4)
+[Here](./output_example_trimmed.mp4) is a piece of the video recored from the final run on the simulator.
 
 ## Implementation
 
